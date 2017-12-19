@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTerrainSim.Plugins", "ARTerrainSim.Plugins.csproj", "{92A400BA-D55C-AFBF-B528-97012596D6F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTerrainSim", "ARTerrainSim.csproj", "{B59A9ACC-98C6-148C-4739-68623B3330C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTerrainSim.Editor.Plugins", "ARTerrainSim.Editor.Plugins.csproj", "{398ACA47-24FD-4A36-C5D2-D6DA9B73AD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTerrainSim.Editor", "ARTerrainSim.Editor.csproj", "{DEA94AFA-C59B-04EC-B323-F3380C8914C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A400BA-D55C-AFBF-B528-97012596D6F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A400BA-D55C-AFBF-B528-97012596D6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A400BA-D55C-AFBF-B528-97012596D6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A400BA-D55C-AFBF-B528-97012596D6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B59A9ACC-98C6-148C-4739-68623B3330C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59A9ACC-98C6-148C-4739-68623B3330C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59A9ACC-98C6-148C-4739-68623B3330C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59A9ACC-98C6-148C-4739-68623B3330C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398ACA47-24FD-4A36-C5D2-D6DA9B73AD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398ACA47-24FD-4A36-C5D2-D6DA9B73AD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398ACA47-24FD-4A36-C5D2-D6DA9B73AD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398ACA47-24FD-4A36-C5D2-D6DA9B73AD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA94AFA-C59B-04EC-B323-F3380C8914C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA94AFA-C59B-04EC-B323-F3380C8914C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA94AFA-C59B-04EC-B323-F3380C8914C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA94AFA-C59B-04EC-B323-F3380C8914C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
