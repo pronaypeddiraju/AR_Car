@@ -5,6 +5,8 @@ This project was made to study the capabilities of AR on mobile devices. The pro
 
 The project was made using the Unity game engine and implemented the use of Vuforia AR kit along with the AI path following car prefab on Unity with slight modifications. 
 
+For more details on this project and more like it, visit http://pronay.me
+
 This software is licensed under the DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE http://www.wtfpl.net/
 
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
